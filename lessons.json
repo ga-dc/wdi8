@@ -8,7 +8,8 @@
       },
       {
         "title": "HTML and CSS Review",
-        "url": "https://github.com/ga-wdi-curriculum/html-intro"
+        "url": "https://github.com/ga-wdi-curriculum/html-intro",
+        "comments": "https://github.com/ga-wdi-curriculum/css-intro, https://github.com/ga-wdi-curriculum/css-intermediate"
       },
       {
         "title": "Terminal and the Command Line",
@@ -16,11 +17,13 @@
       },
       {
         "title": "Local Git",
-        "url": "https://github.com/ga-wdi-curriculum/git-intro"
+        "url": "https://github.com/ga-wdi-curriculum/git-intro",
+        "comments": "https://github.com/ga-wdi-curriculum/git-ssh"
       },
       {
         "title": "Github",
-        "url": null
+        "url": null,
+        "comments": "https://github.com/ga-wdi-curriculum/git-intro"
       },
       {
         "title": "CSS Layout",
@@ -28,7 +31,8 @@
       },
       {
         "title": "Advanced CSS",
-        "url": "https://github.com/ga-wdi-curriculum/css-pseudoselectors"
+        "url": "https://github.com/ga-wdi-curriculum/css-intermediate",
+        "comments": "https://github.com/ga-wdi-curriculum/css-animations, https://github.com/ga-wdi-curriculum/css-pseudoselectors"
       }
     ]
   },
@@ -45,7 +49,8 @@
       },
       {
         "title": "JS Control Flow",
-        "url": null
+        "url": null,
+        "comments": "https://github.com/ga-wdi-curriculum/js-intro"
       },
       {
         "title": "JS Objects and Functions",
@@ -128,7 +133,8 @@
       },
       {
         "title": "SQL, ERDs, and Domain Modeling",
-        "url": "https://github.com/ga-wdi-curriculum/sql-erd"
+        "url": "https://github.com/ga-wdi-curriculum/sql-intro",
+        "comments": "https://github.com/ga-wdi-curriculum/sql-erd"
       },
       {
         "title": "ActiveRecord",
@@ -167,6 +173,14 @@
         "title": "Sessions and Cookies",
         "url": "https://github.com/ga-wdi-curriculum/rails-auth"
       }
+    ],
+    "minilessons": [
+      {
+        "title": "Deployment and Asset Pipelines"
+      },
+      {
+        "title": "How to Retroactively Add Devise"
+      }
     ]
   },
   {
@@ -178,7 +192,8 @@
       },
       {
         "title": "Single Page Apps, Angular, ng-repeat, and ngResource",
-        "url": "https://github.com/ga-wdi-curriculum/angular-intro"
+        "url": "https://github.com/ga-wdi-curriculum/angular-intro",
+        "comments": "https://github.com/ga-wdi-curriculum/spa-intro"
       },
       {
         "title": "Angular Controllers, Factories, and Services",
@@ -199,6 +214,16 @@
       {
         "title": "Git Workflow and Teams",
         "url": "https://github.com/ga-wdi-curriculum/git-teams"
+      }
+    ],
+    "minilessons": [
+      {
+        "title": "Angular Authentication",
+        "url": "https://github.com/ga-wdi-curriculum/angular-auth"
+      },
+      {
+        "title": "Firebase",
+        "url": "https://github.com/ga-wdi-curriculum/angular-firebase"
       }
     ]
   },
@@ -234,5 +259,70 @@
         "url": "https://github.com/ga-wdi-curriculum/express-oauth"
       }
     ]
+  },
+  {
+    "title": "Backbone",
+    "week": "multitrack",
+    "classes": [
+      {
+        "title": "Models and Collections (1)",
+        "url": "https://github.com/ga-wdi-curriculum/backbone-models-collections"
+      },
+      {
+        "title": "Models and Collections (2)",
+        "url": "https://github.com/ga-wdi-curriculum/backbone-models-collections"
+      },
+      {
+        "title": "Views and Events: Models",
+        "url": "https://github.com/ga-wdi-curriculum/backbone-views-1"
+      },
+      {
+        "title": "Views and Events: Collections",
+        "url": "https://github.com/ga-wdi-curriculum/backbone-views-2"
+      },
+      {
+        "title": "Routers (1)",
+        "url": "https://github.com/ga-wdi-curriculum/backbone-routing"
+      },
+      {
+        "title": "Routers (2)",
+        "url": null,
+        "comments": "https://github.com/ga-wdi-curriculum/backbone-routing"
+      }
+    ]
+  },
+  {
+    "title": "Front-End Design",
+    "week": "multitrack",
+    "classes": [
+      {
+        "title": "SASS (1)",
+        "url": "https://github.com/ga-wdi-curriculum/sass-intro"
+      },
+      {
+        "title": "SASS (2)",
+        "url": "https://github.com/ga-wdi-curriculum/sass-directives"
+      },
+      {
+        "title": "Flexbox",
+        "url": "https://github.com/ga-wdi-curriculum/css-flexbox"
+      },
+      {
+        "title": "Bootstrap",
+        "url": "https://github.com/ga-wdi-curriculum/bootstrap-intro"
+      },
+      {
+        "title": "Foundation",
+        "url": "https://github.com/ga-wdi-curriculum/css-foundation"
+      },
+      {
+        "title": "Leaflet and Mapping",
+        "url": "https://github.com/ga-wdi-curriculum/jquery-mapping"
+      }
+    ]
+  },
+  {
+    "title": "DevOps",
+    "week": "multitrack"
   }
 ]
