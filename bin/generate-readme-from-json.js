@@ -1,7 +1,7 @@
 var fs = require("fs");
 fs.readFile(__dirname + "/../lessons.json", 'utf8', function(err,data){
   var lessons = JSON.parse(data);
-  var readme = ""
+  var readme = "# WDI8 \n"
   lessons.forEach(function(lesson){
     readme += "## " + lesson.title + "\n"
     lesson.classes.forEach(function(klass){

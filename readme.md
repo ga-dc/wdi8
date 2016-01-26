@@ -1,3 +1,4 @@
+# WDI8 
 ## Intro to the Web
 - [Intro to WDI](https://github.com/ga-wdi-curriculum/wdi-intro)
 - [HTML and CSS Review](https://github.com/ga-wdi-curriculum/html-intro)
