@@ -1,0 +1,238 @@
+[
+  {
+    "title": "Intro to the Web",
+    "classes": [
+      {
+        "title": "Intro to WDI",
+        "url": "https://github.com/ga-wdi-curriculum/wdi-intro"
+      },
+      {
+        "title": "HTML and CSS Review",
+        "url": "https://github.com/ga-wdi-curriculum/html-intro"
+      },
+      {
+        "title": "Terminal and the Command Line",
+        "url": "https://github.com/ga-wdi-curriculum/cli-intro"
+      },
+      {
+        "title": "Local Git",
+        "url": "https://github.com/ga-wdi-curriculum/git-intro"
+      },
+      {
+        "title": "Github",
+        "url": null
+      },
+      {
+        "title": "CSS Layout",
+        "url": "https://github.com/ga-wdi-curriculum/css-grids"
+      },
+      {
+        "title": "Advanced CSS",
+        "url": "https://github.com/ga-wdi-curriculum/css-pseudoselectors"
+      }
+    ]
+  },
+  {
+    "title": "Vanilla Javascript",
+    "classes": [
+      {
+        "title": "Pseudocoding and Problem Solving",
+        "url": null
+      },
+      {
+        "title": "Javascript Datatypes",
+        "url": "https://github.com/ga-wdi-curriculum/js-intro"
+      },
+      {
+        "title": "JS Control Flow",
+        "url": null
+      },
+      {
+        "title": "JS Objects and Functions",
+        "url": "https://github.com/ga-wdi-curriculum/js-objects-functions"
+      },
+      {
+        "title": "JS Scope and Context",
+        "url": "https://github.com/ga-wdi-curriculum/js-scope"
+      }
+    ]
+  },
+  {
+    "title": "Javascript and the DOM",
+    "classes": [
+      {
+        "title": "JS Events and Callbacks",
+        "url": "https://github.com/ga-wdi-curriculum/js-events-callbacks"
+      },
+      {
+        "title": "JS DOM Manipulation",
+        "url": "https://github.com/ga-wdi-curriculum/js-dom"
+      },
+      {
+        "title": "JS Debugging",
+        "url": "https://github.com/ga-wdi-curriculum/js-debugging"
+      }
+    ]
+  },
+  {
+    "title": "Object-Oriented Javascript",
+    "classes": [
+      {
+        "title": "jQuery Introduction",
+        "url": "https://github.com/ga-wdi-curriculum/js-jquery"
+      },
+      {
+        "title": "jQuery: Under the hood",
+        "url": null
+      },
+      {
+        "title": "OOJS: Prototypes and Constructors",
+        "url": "https://github.com/ga-wdi-curriculum/js-prototypes-constructors"
+      },
+      {
+        "title": "OOJS: Scope, Context, and Closures",
+        "url": "https://github.com/ga-wdi-curriculum/js-scope"
+      },
+      {
+        "title": "Problem Modeling and Solving",
+        "url": "https://github.com/ga-wdi-curriculum/problem-modeling"
+      },
+      {
+        "title": "Write Your Own jQuery, and jQuery Plugins",
+        "url": "https://github.com/ga-wdi-curriculum/jquery-plugins"
+      }
+    ]
+  },
+  {
+    "title": "Raw Ruby",
+    "classes": [
+      {
+        "title": "Ruby Basics",
+        "url": "https://github.com/ga-wdi-curriculum/ruby-intro"
+      },
+      {
+        "title": "Ruby Enumerables",
+        "url": "https://github.com/ga-wdi-curriculum/ruby-enumerables"
+      },
+      {
+        "title": "OOP: Classes, and attr_accessor",
+        "url": "https://github.com/ga-wdi-curriculum/ruby-oop"
+      },
+      {
+        "title": "OOP: Classical Inheritance",
+        "url": null
+      },
+      {
+        "title": "TDD and RSpec",
+        "url": "https://github.com/ga-wdi-curriculum/rspec"
+      },
+      {
+        "title": "SQL, ERDs, and Domain Modeling",
+        "url": "https://github.com/ga-wdi-curriculum/sql-erd"
+      },
+      {
+        "title": "ActiveRecord",
+        "url": "https://github.com/ga-wdi-curriculum/activerecord-intro"
+      }
+    ]
+  },
+  {
+    "title": "Rails",
+    "classes": [
+      {
+        "title": "Intro to MVC and Rails",
+        "url": "https://github.com/ga-wdi-curriculum/mvc-intro-rails"
+      },
+      {
+        "title": "Rails Models, Migrations, and Validations",
+        "url": "https://github.com/ga-wdi-curriculum/rails-activerecord"
+      },
+      {
+        "title": "Rails Model Methods",
+        "url": null
+      },
+      {
+        "title": "Rails Views and Controllers",
+        "url": "https://github.com/ga-wdi-curriculum/rails-views"
+      },
+      {
+        "title": "Rails Helpers",
+        "url": "https://github.com/ga-wdi-curriculum/rails-helpers"
+      },
+      {
+        "title": "Rails Routing and Resources",
+        "url": "https://github.com/ga-wdi-curriculum/rails-routing"
+      },
+      {
+        "title": "Sessions and Cookies",
+        "url": "https://github.com/ga-wdi-curriculum/rails-auth"
+      }
+    ]
+  },
+  {
+    "title": "Angular and APIs",
+    "classes": [
+      {
+        "title": "AJAX and Consuming APIs",
+        "url": "https://github.com/ga-wdi-curriculum/api-intro"
+      },
+      {
+        "title": "Single Page Apps, Angular, ng-repeat, and ngResource",
+        "url": "https://github.com/ga-wdi-curriculum/angular-intro"
+      },
+      {
+        "title": "Angular Controllers, Factories, and Services",
+        "url": "https://github.com/ga-wdi-curriculum/angular-resources"
+      },
+      {
+        "title": "Angular Custom Directives",
+        "url": "https://github.com/ga-wdi-curriculum/angular-directives"
+      },
+      {
+        "title": "Building a Rails app with an Angular front-end",
+        "url": null
+      },
+      {
+        "title": "Angular ui-router",
+        "url": "https://github.com/ga-wdi-curriculum/angular-routing"
+      },
+      {
+        "title": "Git Workflow and Teams",
+        "url": "https://github.com/ga-wdi-curriculum/git-teams"
+      }
+    ]
+  },
+  {
+    "title": "Express and MEAN",
+    "classes": [
+      {
+        "title": "Express: Build a simple app",
+        "url": "https://github.com/ga-wdi-curriculum/express-intro"
+      },
+      {
+        "title": "Express: MVC, and how it all fits together",
+        "url": "https://github.com/ga-wdi-curriculum/express-intermediate"
+      },
+      {
+        "title": "MongoDB and NoSQL, and Mongoose Schema and Seeding",
+        "url": "https://github.com/ga-wdi-curriculum/mongo-intro"
+      },
+      {
+        "title": "Mongoose CRUD",
+        "url": null
+      },
+      {
+        "title": "Building a MEAN app",
+        "url": null
+      },
+      {
+        "title": "Deploying a MEAN app",
+        "url": null
+      },
+      {
+        "title": "Express Auth: Sessions, Cookies, and OAuth via Twitter and Passport",
+        "url": "https://github.com/ga-wdi-curriculum/express-oauth"
+      }
+    ]
+  }
+]
