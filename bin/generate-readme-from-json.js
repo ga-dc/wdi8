@@ -5,8 +5,11 @@ fs.readFile(__dirname + "/../lessons.json", 'utf8', function(err,data){
   lessons.forEach(function(lesson){
     readme += "## " + lesson.title + "\n"
     lesson.classes.forEach(function(klass){
-      console.log(klass) 
-      readme += "- ["+klass.title+"]("+klass.url+")\n"
+      if(klass.url){
+	readme += "- ["+klass.title+"]("+klass.url+")\n"
+      } else {
+	readme += "- "+klass.title+"\n"
+      }
     })
     readme += "\n"
   })
