@@ -13,9 +13,6 @@ git reset upstream/gh-pages
 
 touch .
 
-cd bin
-node generate-readme-from-json.js
-
 git add -A .
 git commit -m "rebuild pages at ${rev}"
 git push -q upstream HEAD:gh-pages
