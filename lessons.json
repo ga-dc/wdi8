@@ -27,15 +27,6 @@
           "title": "Github",
           "url": null,
           "comments": "git-intro"
-        },
-        {
-          "title": "CSS Layout",
-          "url": "css-grids"
-        },
-        {
-          "title": "Advanced CSS",
-          "url": "css-intermediate",
-          "comments": "css-animations, css-pseudoselectors"
         }
       ],
       "homework": [
@@ -55,6 +46,17 @@
           "title": "Portfolio Pages",
           "url": "portfolio_pages",
           "comments": "Lab"
+        }
+      ],
+      "minilessons": [
+        {
+          "title": "CSS Layout",
+          "url": "css-grids"
+        },
+        {
+          "title": "Advanced CSS",
+          "url": "css-intermediate",
+          "comments": "css-animations, css-pseudoselectors"
         }
       ]
     },
