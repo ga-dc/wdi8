@@ -1,6 +1,6 @@
 {
-  "lessons_base_url": "https://github.com/ga-wdi-curriculum/",
-  "homework_base_url": "https://github.com/ga-dc/",
+  "lessons_base_url": "https://github.com/ga-wdi-lessons/",
+  "homework_base_url": "https://github.com/ga-wdi-exercises/",
   "scope": [
     {
       "title": "Intro to the Web",
