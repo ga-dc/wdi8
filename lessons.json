@@ -10,9 +10,8 @@
           "url": "wdi-intro"
         },
         {
-          "title": "HTML and CSS Review",
-          "url": "html-intro",
-          "comments": "css-intro, css-intermediate"
+          "title": "CSS Layout",
+          "url": "css-grids"
         },
         {
           "title": "Terminal and the Command Line",
@@ -50,8 +49,9 @@
       ],
       "minilessons": [
         {
-          "title": "CSS Layout",
-          "url": "css-grids"
+          "title": "HTML and CSS Review",
+          "url": "html-intro",
+          "comments": "css-intro, css-intermediate"
         },
         {
           "title": "Advanced CSS",
@@ -68,7 +68,7 @@
           "url": null
         },
         {
-          "title": "Javascript Datatypes",
+          "title": "Javascript Intro",
           "url": "js-intro"
         },
         {
@@ -273,8 +273,9 @@
           "url": "rails-routing"
         },
         {
-          "title": "Sessions and Cookies",
-          "url": "rails-auth"
+          "title": "HTTP, Sessions, and Cookies",
+          "url": "rails-auth",
+          "comments": "Needs additional content"
         }
       ],
       "minilessons": [
@@ -307,12 +308,12 @@
           "url": "api-intro"
         },
         {
-          "title": "Single Page Apps, Angular, ng-repeat, and ngResource",
+          "title": "Single Page Apps, Angular, Directives, and Controllers", 
           "url": "angular-intro",
           "comments": "spa-intro"
         },
         {
-          "title": "Angular Controllers, Factories, and Services",
+          "title": "Angular, Factories, Services, and ngResource",
           "url": "angular-resources"
         },
         {
