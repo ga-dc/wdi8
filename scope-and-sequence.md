@@ -4,7 +4,7 @@ Subject to change.
 
 ## Intro to the Web
   - [Intro to WDI](https://github.com/ga-wdi-lessons/wdi-intro)
-  - [CSS Layout](https://github.com/ga-wdi-lessons/css-grids)
+  - [CSS Review](https://github.com/ga-wdi-lessons/css-review)
     - HW: [Wendy Bite](https://github.com/ga-dc/wendy_bite)
   - [Terminal and the Command Line](https://github.com/ga-wdi-lessons/cli-intro)
     - HW: [To Oz! (via the Command Line)](https://github.com/ga-dc/to_oz)
