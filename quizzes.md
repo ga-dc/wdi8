@@ -2,7 +2,7 @@
 
 ## Week 1
 
-https://github.com/ga-wdi-quizzes/css-js-git
+https://github.com/ga-wdi-quizzes/week-01
 
 ## Week 2
 
