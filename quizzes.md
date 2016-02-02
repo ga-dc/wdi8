@@ -2,6 +2,8 @@
 
 ## Week 1
 
+https://github.com/ga-wdi-quizzes/css-js-git
+
 ## Week 2
 
 ## Week 3
