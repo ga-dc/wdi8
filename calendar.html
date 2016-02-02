@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WDI7 Calendar</title>
+    <style>
+*{
+  margin:0;
+  padding:0;
+  border:0;
+}
+iframe{
+  display:block;
+  width:100vw;
+  height:90vh;
+}
+kbd{
+  color:blue;
+}
+    </style>
+    <script>
+window.onload = function(){
+  var cal = document.getElementById("cal");
+  cal.src = "https://calendar.google.com/calendar/embed?" + qs([
+    ["title",  "WDIDC 7"],
+    ["mode",  "WEEK"],
+    ["height",  "600"],
+    ["wkst",  "1"],
+    ["color",  "#FFFFFF"],
+    ["src",  "generalassemb.ly_hvuk7leun1gm7l54auuroirla8@group.calendar.google.com"],
+    ["color",  "#A32929"],
+    ["src",  "generalassemb.ly_pg526s3seikupkl90r401oufkc@group.calendar.google.com"],
+    ["color",  "#0D7813"],
+    ["src",  "generalassemb.ly_0igakc2jbm95n2408hgkqe5gks@group.calendar.google.com"],
+    ["color",  "#29527A"],
+    ["src",  "generalassemb.ly_cgu6n7pe6833ar2h70i9gsu2tk@group.calendar.google.com"],
+    ["color",  "#333333"],
+    ["ctz",  "America/New_York"]
+  ]);
+
+  function qs(params){
+    var out = [];
+    params.forEach(function(pair){
+      out.push(pair[0] + "=" + encodeURIComponent(pair[1]));
+    });
+    return out.join("&");
+  }
+}
+    </script>
+  </head>
+  <body>
+    <iframe id="cal" src="#" scrolling="no"></iframe>
+    <p>Add meetups and other cool events to the WDI-DC Student Activities calendar! Create the event in your Google account, and then under "Add Guests" include the address <kbd>generalassemb.ly_cgu6n7pe6833ar2h70i9gsu2tk@group.calendar.google.com</kbd>.</p>
+  </body>
+</html>
