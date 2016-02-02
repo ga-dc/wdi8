@@ -12,6 +12,8 @@ https://github.com/ga-wdi-quizzes/css-js-git
 
 ## Week 5
 
+https://github.com/ga-wdi-quizzes/ruby-sql-rest
+
 ## Week 6
 
 ## Week 6
