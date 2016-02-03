@@ -22,7 +22,7 @@ Subject to change.
     - HW: [Big Ol' Twitter Object](https://github.com/ga-dc/big_ole_twitter_object)
   - [Debugging](https://github.com/ga-wdi-lessons/js-debugging)
   - [Scope and Context](https://github.com/ga-wdi-lessons/js-scope)
-    - HW: High Card
+    - HW: [High Card](https://github.com/ga-wdi-exercises/high-card-js)
   - Lab: [Hangman](https://github.com/ga-wdi-exercises/hangman-lab)
 
 ## Javascript and the DOM
