@@ -13,6 +13,10 @@
 - [Incentives](incentives.md)
   - Includes attendance and homework policies
 
+- [Office Hours](office-hours.md)
+
+- [One-on-Ones](one-on-ones.md)
+
 - [Schedule, Scope, and Sequence](scope-and-sequence.md)
 
 - [Squads](squads.md)
@@ -23,11 +27,13 @@ Your one-stop-shop for tracking your attendance, homework submissions, and more!
 
 http://garnet.wdidc.org
 
-## Repos
+## Tools
 
 - [All WDI Exercises](http://repotagger.github.io?name=ga-wdi-exercises)
 
 - [All WDI Lessons](http://repotagger.github.io?name=ga-wdi-lessons)
+
+- [Installfest](https://github.com/ga-dc/installfest)
 
 ## Slack
 
@@ -41,10 +47,10 @@ http://garnet.wdidc.org
   - \`\`\`
     ```
     A row of 3 backtics on either end of text makes it show up as a block of monospaced code.
-    
+
     The backtics must be on a row by themselves.
     ```
     \`\`\`
-  - These same backtick tricks also work on **Github**. 
+  - These same backtick tricks also work on **Github**.
   - `@here`: Sends a message to everyone currently online in a Slack room
   - Send a direct message to Anonbot for more useful tips!
