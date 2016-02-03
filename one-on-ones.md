@@ -1,6 +1,6 @@
 # One-on-Ones
 
-You will have two one-on-ones with your squad instructor every 2 weeks. These will be scheduled by your squad instructor.
+You will have a one-on-one with your squad instructor every 2 weeks. These will be scheduled by your squad instructor.
 
 They're a safe space to talk about literally anything. One-on-ones might include:
 - Code review
