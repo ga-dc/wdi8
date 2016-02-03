@@ -2,8 +2,6 @@
 
 ## Things to note
 
-- We want to be able to give you some flexibility in your homework schedule.
-
 - There will be roughly 2 hours of homework per night. Homework will take more time for some, and less time for others. It is up to you how you want to partition your time for a given exercise.
 
 - Please read the [Incentives](incentives.md) for completing your homework on-time!
@@ -22,9 +20,13 @@
 
 - Unless otherwise directed, each assignment should be forked and cloned from a `ga-wdi-exercises` repository, and submitted as a pull request to the original `ga-wdi-exercises` repository from your fork. For more information on pull requests, see below.
 
+- Homework is graded only on **meaningful progress**. That is: that you made an effort to complete it, regardless of whether you were successful. **We would strongly prefer you spend 2 hours taking a good stab at it but not finishing, rather than spending 10 hours getting it perfect.**
+
+- **We rely on homework to know where you're at.** It's very much to your advantage to turn in your homework the day it's assigned, even if -- *especially* if -- you're not able to finish it. Then we can address concerns before the unit continues and keep you from falling behind. If you wait until Thursday to turn everything in, you will have missed valuable opportunities to get on-track. We provide this flexibility to account for extenuating circumstances.
+
 - Each week, **one assignment and the lab** will be reviewed and commented upon by your squad instructor.
 
-- The other assignments will be checked only for *meaningful progress* -- that is: you made an effort to complete it, regardless of whether you were successful. These will be checked by **Robin**. In general, feedback will not be given on these assignments by the grading instructor unless you specifically request it.
+- The other assignments will be checked only for meaningful progress. These will be checked by **Robin**. In general, feedback will not be given on these assignments by the grading instructor unless you specifically request it.
 
 ## What to include with your submission
 
