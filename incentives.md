@@ -56,18 +56,5 @@
         </ul>
       </td>
     </tr>
-    <tr>
-      <td>
-        <p>Squad Lunch</p>
-        <ul>
-          <li>Your squad leader provides lunch on Friday!</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>Each person in your squad is on-time each day of the given week</li>
-        </ul>
-      </td>
-    </tr>
   </tbody>
 </table>
