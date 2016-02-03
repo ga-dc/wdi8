@@ -10,9 +10,9 @@
 
 - Turn in **something**. Turning in an incomplete assignment is **infinitely** better than turning in nothing at all. We can't get you the help you need unless we see what you're working on. That said...
 
-- Ultimately *you* decide what is the best investment of your time and energy. Historically, the most successful students have completed most or all of the assignments. However, if you're feeling overwhelmed, it may be a better investment of your time and energy to take a night off from homework. In fact, we may encourage you to do so.
+- If you're feeling overwhelmed, it may be a better investment of your time and energy to take a night off from homework. We respect that! **Just keep in mind the [potential consequences](incentives.md).**
 
-- **Late homework will not be accepted**. However, we're flexible and accommodating. If you have issues submitting homework please let us know.
+- **Late homework will not be accepted**. If you have issues submitting homework please let us know.
 
 - You can track your homework completion rate in [Garnet](http://garnet.wdidc.org).
 
