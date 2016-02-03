@@ -42,7 +42,7 @@ Subject to change.
   - Problem Modeling and Solving
     - HW: [ATM](https://github.com/ga-dc/atm)
   - [jQuery Plugins](https://github.com/ga-wdi-lessons/problem-modeling)
-  - Lab: [Tic Tac Toe]((https://github.com/ga-dc/tic_tac_toe)
+  - Lab: [Tic Tac Toe](https://github.com/ga-dc/tic_tac_toe)
 
 ## Raw Ruby
   - [Ruby Intro](https://github.com/ga-wdi-lessons/ruby-intro)
