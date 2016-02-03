@@ -37,12 +37,14 @@ http://garnet.wdidc.org
   - [wdi-fundamentals](https://ga-students.slack.com/messages/wdi-fundamentals/)
 
 - Tips
-  - `@here`: Sends a message to everyone currently online in a Slack room
-  - \`hello\`: Backtics (the top-left of the keyboard on a Mac) makes text show up in a monospace font. Great for code.
-  - ```
-    ` ` `
-    A row of 3 backtics on either end of text makes it show up as a block of monospaced code.
-    The backtics must be on a row by themselves.
-    ` ` `
+  - \``hello`\`: Backtics (the top-left of the keyboard on a Mac) makes text show up in a monospace font. Great for code.
+  - \`\`\`
     ```
+    A row of 3 backtics on either end of text makes it show up as a block of monospaced code.
+    
+    The backtics must be on a row by themselves.
+    ```
+    \`\`\`
+  - These same backtick tricks also work on **Github**. 
+  - `@here`: Sends a message to everyone currently online in a Slack room
   - Send a direct message to Anonbot for more useful tips!
