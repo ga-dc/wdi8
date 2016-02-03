@@ -23,7 +23,7 @@ Subject to change.
   - [Debugging](https://github.com/ga-wdi-lessons/js-debugging)
   - [Scope and Context](https://github.com/ga-wdi-lessons/js-scope)
     - HW: High Card
-  - Lab: Hangman
+  - Lab: [Hangman](https://github.com/ga-wdi-exercises/hangman-lab)
 
 ## Javascript and the DOM
   - [Events and Callbacks](https://github.com/ga-wdi-lessons/js-events-callbacks)
