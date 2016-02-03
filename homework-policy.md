@@ -1,68 +1,75 @@
 # Homework
 
-## General Guidelines
-// TODO
-- You will be given one or more assignments to finish by Wednesday at 9:00am, and one or more by Friday at 9:00am.
-- Unless otherwise directed, each assignment should be forked and cloned from a `ga-dc` repository, and submitted as a pull request to the original `ga-dc` repository from your fork by 9:00am of the day on which it is due.
-  - For instructions on pull requests, please see the [homework submission process documentation](https://github.com/ga-dc/wdi7/blob/master/homework/submission-process.md)
-// TODO
-- Homework due Wednesday will be checked only for meaningful progress -- that is, for some substantial effort having been made to complete the assignment.
-  - You can show meaningful progress without actually completing an assignment. The rubric is simply that you make an effort to complete it.
-  - In general, feedback will not be given on these assignments by the grading instructor. That said, the grader will attempt to answer any questions you leave in your pull request, regarding your code, design choices, or the technologies involved.
-    - **Please phrase all questions as a question, with a question mark (?).** This serves as a visual cue to the grader.
-// TODO
-- Homework due Friday will be graded on the same criteria as homework due Wednesday. The grader **will** leave meaningful feedback on these assignments. Leaving questions in your pull request is still extremely helpful as a way of informing the grader how they should target their feedback.
-
 ## Things to note
+
 - We want to be able to give you some flexibility in your homework schedule.
+
 - There will be roughly 2 hours of homework per night. Homework will take more time for some, and less time for others. It is up to you how you want to partition your time for a given exercise.
-- These are the expectations that *we*, your instructors, set for you. But ultimately *you* decide is the best investment of your time and energy. Historically, the most successful students have completed most or all of the assignments.
-- Please see the [main readme](readme.md) for incentives to complete your homework on-time!
 
-## The submission process
+- Please read the [Incentives](incentives.md) for completing your homework on-time!
 
-All homework assignments will have their own Github repository, under the `ga-dc` account.
+- Turn in **something**. Turning in an incomplete assignment is **infinitely** better than turning in nothing at all. We can't get you the help you need unless we see what you're working on. That said...
 
-1. Please **fork** new assignments.
-2. Then, **clone** your fork to your computer.
-3. Create a feature branch in the format of `yourname_solution`
-4. Complete your work inside it.
-5. Then, **push** your completed work to your forked repository.
-6. Finally, make a **pull request** to the upstream repository (in `ga-dc`).
+- Ultimately *you* decide what is the best investment of your time and energy. Historically, the most successful students have completed most or all of the assignments. However, if you're feeling overwhelmed, it may be a better investment of your time and energy to take a night off from homework. In fact, we may encourage you to do so.
 
-**Even if you're not done, please make sure you've made a pull request with what you have completed by the times listed below.**
+- **Late homework will not be accepted**. However, we're flexible and accommodating. If you have issues submitting homework please let us know.
+
+- You can track your homework completion rate in [Garnet](http://garnet.wdidc.org).
+
+## Due Dates and Grading
+
+- You will generally be assigned homework every day. It will **all** be due **Thursday morning at 9:00am**.
+
+- Unless otherwise directed, each assignment should be forked and cloned from a `ga-wdi-exercises` repository, and submitted as a pull request to the original `ga-wdi-exercises` repository from your fork. For more information on pull requests, see below.
+
+- Each week, **one assignment and the lab** will be reviewed and commented upon by your squad instructor.
+
+- The other assignments will be checked only for *meaningful progress* -- that is: you made an effort to complete it, regardless of whether you were successful. These will be checked by **Robin**. In general, feedback will not be given on these assignments by the grading instructor unless you specifically request it.
 
 ## What to include with your submission
 
 On **every submission** -- that is, on every pull request (or, sometimes, issue) -- please include:
 - **Comfort score**, out of 5
 - **Completeness score**, out of 5
-- On what **specific concept or piece of code** you would like feedback
+- Any comments
 
-We'd love to go through and add comments to your code in its entirety, but that's extremely time-consuming. Please let us know with what specific things you are most concerned and we'll focus our review there.
+### In order to get feedback on your assignment...
 
-If you would like feedback on something that isn't working, please follow the format:
+...when submitting your pull request or issue, please...
 
->I tried this:
+- Ask specific questions, **ending them with a question mark**. We grade *lots* of assignments, and we rely on questions marks to provide a visual queue that we should stop and address something!
 
->I expected this to happen:
+  For example:
 
->This happened instead: (**Include error messages**)
+  > Any thoughts as to why the method on line 49 kept returning 'NaN'?
 
+- If you'd like feedback or an answer to a question from an instructor *other* than the one assigned to check your submission, please include their first name. This will send them an e-mail notification. Without this notification, they will have no way of knowing you asked a question.
 
-Finally, if you'd like feedback or an answer to a question from an instructor *other* than the one assigned to check your submission (see below), please include their first name in your pull request / issue.
+  For example:
 
-## Due dates and grading
+  > Jesse: On line 85 of `script.js`, is this what you meant by making it an instance method?
 
-In general, there will be three due dates per week for homework:
+## The submission process
 
-// TODO
-- Homework assigned Friday
-  - **Due by:** Monday morning at 9:00am
-  - **Graded by:** Robin
-  - **Grades logged & feedback returned by:** Tuesday, 1:30pm
-  - **Note:** These specific homeworks will be marked "Complete" simply if they are turned in and a cursory glance indicates some effort was made. On these assignments, comfort and completeness scores are required, but the feedback request is **optional**.
+All homework assignments will have their own Github repository, under the `ga-wdi-exercises` account.
 
+1. Please **fork** new assignments.
+2. Then, **clone** your fork to your computer.
+3. Create a feature branch in the format of `yourname_solution`.
+4. Complete your work inside it.
+5. Then, **push** your completed work to your forked repository.
+6. Finally, make a **pull request** to the upstream repository (in `ga-dc`).
 
-**Late homework will not be accepted**. We're flexible and accommodating. If you have issues submitting homework
-please let us know. Otherwise late homework will not be accepted.
+For example, the sequence of commands you might follow to complete the above process is:
+
+```
+# Click grey 'Fork' button on Github
+js1989: ~/wdi $ git clone git@github.com:js1989/homeworkaroo.git
+js1989: ~/wdi/homeworkaroo $ cd homeworkaroo
+js1989: ~/wdi/homeworkaroo (master) $ git checkout -b johnsmith_solution
+js1989: ~/wdi/homeworkaroo (johnsmith_solution) $ touch did_my_homework.txt
+js1989: ~/wdi/homeworkaroo (johnsmith_solution *) $ git add did_my_homework.txt
+js1989: ~/wdi/homeworkaroo (johnsmith_solution +) $ git commit -m "Added did_hw file. All done!"
+js1989: ~/wdi/homeworkaroo (johnsmith_solution) $ git push origin johnsmith_solution
+# Click green 'Pull Request' button on Github
+```
