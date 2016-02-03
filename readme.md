@@ -1,5 +1,11 @@
 # WDI8
 
+## [GArnet](http://garnet.wdidc.org)
+
+Your one-stop-shop for tracking your attendance, homework submissions, and more!
+
+http://garnet.wdidc.org
+
 ## Table of Contents
 
 - [Asking for Help](asking-for-help.md)
@@ -18,6 +24,14 @@
 
 ## Repos
 
-  - [All WDI Exercises](http://repotagger.github.io?name=ga-wdi-exercises)
+- [All WDI Exercises](http://repotagger.github.io?name=ga-wdi-exercises)
 
-  - [All WDI Lessons](http://repotagger.github.io?name=ga-wdi-lessons)
+- [All WDI Lessons](http://repotagger.github.io?name=ga-wdi-lessons)
+
+## Slack Rooms
+
+- [wdi-dc-8-students](https://ga-students.slack.com/messages/wdi-dc-8-students/)
+
+- [wdi-dc-8-announcements](https://ga-students.slack.com/messages/wdi-dc-8-announce/)
+
+- [wdi-fundamentals](https://ga-students.slack.com/messages/wdi-fundamentals/)
