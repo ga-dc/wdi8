@@ -8,9 +8,9 @@ Subject to change.
     - [HW: Wendy Bite](https://github.com/ga-dc/wendy_bite)
   - [Terminal and the Command Line](https://github.com/ga-wdi-lessons/cli-intro)
     - [HW: To Oz! (via the Command Line)](https://github.com/ga-dc/to_oz)
-  - [Git Intro](https://github.com/ga-wdi-lessons/git-intro)
+  - [Git and Github Intro](https://github.com/ga-wdi-lessons/git-intro)
     - [HW: Git Haiku](https://github.com/ga-dc/haiku)
-  - [Github](https://github.com/ga-wdi-lessons/git-branching)
+  - [Git Branching](https://github.com/ga-wdi-lessons/git-branching)
   - [Lab: Portfolio Pages](https://github.com/ga-dc/portfolio_pages)
   - [Mini: HTML Review](https://github.com/ga-wdi-lessons/html-intro)
 
