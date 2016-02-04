@@ -22,6 +22,11 @@
 
 - Homework is graded only on **meaningful progress**. That is: that you made an effort to complete it, regardless of whether you were successful. **We would strongly prefer you spend 2 hours taking a good stab at it but not finishing, rather than spending 10 hours getting it perfect.**
 
+- Assignments are graded on whether or not you seem to have made a meaningful effort to do them. There are three possible grades for each assignment:
+  - Complete: something was turned in, and meaningful effort was made.
+  - Incomplete: something was turned in, but meaningful effort was not made: the submission is blank, or it was blatantly copied wholesale from somewhere.
+  - Missing: nothing was turned in.
+
 - **We rely on homework to know where you're at.** It's very much to your advantage to turn in your homework the day it's assigned, even if -- *especially* if -- you're not able to finish it. Then we can address concerns before the unit continues and keep you from falling behind. If you wait until Thursday to turn everything in, you will have missed valuable opportunities to get on-track. We provide this flexibility to account for extenuating circumstances.
 
 - Each week, **one assignment and the lab** will be reviewed and commented upon by your squad instructor.
