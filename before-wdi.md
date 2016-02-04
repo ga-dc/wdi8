@@ -1,6 +1,6 @@
 ### Important!
 
-**Please complete the following steps as soon as you can.** We can't make classroom and squad assignments until you do!
+**Please complete the following steps as soon as possible.** We can't make classroom and squad assignments until you do!
 
 1. Click [this link](http://garnet.wdidc.org/github/authorize?invite_code=14b71bca6df0c463f47f6e03742141e2). This will authorize you for Garnet, an application that both instructors and students will use to track your progress throughout WDI.  
 
