@@ -24,8 +24,6 @@ Subject to change.
   - [Scope and Context](https://github.com/ga-wdi-lessons/js-scope)
     - [HW: High Card](https://github.com/ga-wdi-exercises/high-card-js)
   - [Lab: Hangman](https://github.com/ga-wdi-exercises/hangman-lab)
-
-## Javascript and the DOM
   - [Events and Callbacks](https://github.com/ga-wdi-lessons/js-events-callbacks)
   - [DOM Manipulation](https://github.com/ga-wdi-lessons/js-dom)
     - [HW: Pixart](https://github.com/ga-wdi-exercises/pixart_js)
