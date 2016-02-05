@@ -8,6 +8,8 @@
 
 3. Take the [start of class survey](https://outcomes.generalassemb.ly/courses/14107/surveys/background/new). This allows us to collect emergency contact and food allergy information.
 
+4. Complete the outcomes prework - https://generalassemblydc.typeform.com/to/rOEItv
+
 Once you're done, we encourage you to take a look through [this readme](https://github.com/ga-dc/wdi8/blob/master/readme.md) if you would like to learn more about what you can expect out of WDI.
 
 See you all Monday!
