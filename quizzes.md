@@ -34,10 +34,12 @@ https://github.com/ga-wdi-quizzes/week-08
 
 ## Week 9
 
+Project Week
 
 ## Week 10
 
+https://github.com/ga-wdi-quizzes/week-10
 
 ## Week 11
 
-Project Week 
+Project Week
