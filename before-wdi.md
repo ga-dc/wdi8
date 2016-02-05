@@ -6,6 +6,9 @@
 
 2. Update your GitHub profile with your full name and profile picture. The latter is very important - we need to know what you look like! The clearer the picture, the better.
 
+3. **Important** Take the start of class survey - https://outcomes.generalassemb.ly/courses/14107/surveys/background/new
+  - this allows us to collect emergency contact and food allergy information
+
 Once you're done, we encourage you to take a look through [this readme](https://github.com/ga-dc/wdi8/blob/master/readme.md) if you would like to learn more about what you can expect out of WDI.
 
 See you all Monday!
