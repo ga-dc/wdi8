@@ -2,7 +2,7 @@
 
 The names below are the squad leaders.
 
-## Week 1
+## Unit 1: Intro to the Web
 
 - Classroom 4
   - Adrian
@@ -14,7 +14,7 @@ The names below are the squad leaders.
   - Nick
   - Robin
 
-## Week 2
+## Unit 2: Vanilla Javascript
 
 - Classroom 4
   - Adrian
@@ -26,11 +26,7 @@ The names below are the squad leaders.
   - Nick
   - Robin
 
-## Week 3
-
-Projects!
-
-## Week 4
+## Unit 3: Object-Oriented Javascript
 
 - Classroom 4
   - Adrian
@@ -42,7 +38,7 @@ Projects!
   - Joe
   - Matt
 
-## Week 5
+## Unit 4: Raw Ruby
 
 - Classroom 4
   - Becky
@@ -54,7 +50,7 @@ Projects!
   - Matt
   - Robin
 
-## Week 6
+## Unit 5: Rails
 
 - Classroom 4
   - Jesse
@@ -66,11 +62,7 @@ Projects!
   - Nick
   - Robin
 
-## Week 7
-
-Projects!
-
-## Week 8
+## Unit 6: Angular and APIs
 
 - Classroom 4
   - Jesse
@@ -82,7 +74,7 @@ Projects!
   - Joe
   - Nick
 
-## Week 9
+## Unit 7: Express and MEAN
 
 - Classroom 4
   - Becky
@@ -93,15 +85,3 @@ Projects!
   - Jesse
   - Joe
   - Nick
-
-## Week 10
-
-Projects!
-
-## Week 11
-
-Multi-track!
-
-## Week 12
-
-Projects!
