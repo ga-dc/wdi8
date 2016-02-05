@@ -13,7 +13,7 @@ Subject to change.
   - [Git Branching](https://github.com/ga-wdi-lessons/git-branching)
   - [Lab: Portfolio Pages](https://github.com/ga-wdi-exercises/portfolio_pages)
   - [Mini: HTML Review](https://github.com/ga-wdi-lessons/html-intro)
-  - [Quiz-1](https://github.com/ga-wdi-quizzes/week-01)
+  - [Quiz 1](https://github.com/ga-wdi-quizzes/week-01)
 
 ## Vanilla Javascript
   - Pseudocoding and Problem-Solving
@@ -28,7 +28,7 @@ Subject to change.
   - [Events and Callbacks](https://github.com/ga-wdi-lessons/js-events-callbacks)
   - [DOM Manipulation](https://github.com/ga-wdi-lessons/js-dom)
     - [HW: Pixart](https://github.com/ga-wdi-exercises/pixart_js)
-  - [Quiz-2](https://github.com/ga-wdi-quizzes/week-02)
+  - [Quiz 2](https://github.com/ga-wdi-quizzes/week-02)
 
 ## Project 1
 
@@ -43,7 +43,7 @@ Subject to change.
     - [HW: ATM](https://github.com/ga-wdi-exercises/atm)
   - [jQuery Plugins](https://github.com/ga-wdi-lessons/problem-modeling)
   - [Lab: Tic Tac Toe](https://github.com/ga-wdi-exercises/tic_tac_toe)
-  - [Quiz-4](https://github.com/ga-wdi-quizzes/week-04)
+  - [Quiz 3](https://github.com/ga-wdi-quizzes/week-04)
 
 ## Raw Ruby
   - [Ruby Intro](https://github.com/ga-wdi-lessons/ruby-intro)
@@ -58,7 +58,7 @@ Subject to change.
   - [ActiveRecord](https://github.com/ga-wdi-lessons/activerecord-intro)
     - [HW: Moma DB](https://github.com/ga-wdi-exercises/moma_db)
   - [Lab: Gladiator](https://github.com/ga-wdi-exercises/gladiator)
-  - [Quiz-5](https://github.com/ga-wdi-quizzes/week-05)
+  - [Quiz 4](https://github.com/ga-wdi-quizzes/week-05)
 
 ## Rails
   - [Intro to MVC, HTTP, REST, and Rails](https://github.com/ga-wdi-lessons/mvc-intro-rails)
@@ -72,7 +72,7 @@ Subject to change.
   - [Lab: Hogwarts](https://github.com/ga-wdi-exercises/hogwarts_rails)
   - [Mini: Deployment and the Asset Pipeline](https://github.com/ga-wdi-lessons/rails-deployment)
   - [Mini: How to Retroactively Add Devise](https://github.com/ga-wdi-lessons/rails-auth)
-  - [Quiz-6](https://github.com/ga-wdi-quizzes/week-06)
+  - [Quiz 5](https://github.com/ga-wdi-quizzes/week-06)
 
 ## Project 2
 
@@ -88,7 +88,7 @@ Subject to change.
   - Lab: WDI Yearbook
   - [Mini: Authentication](https://github.com/ga-wdi-lessons/angular-auth)
   - [Mini: Firebase](https://github.com/ga-wdi-lessons/angular-firebase)
-  - [Quiz-8](https://github.com/ga-wdi-quizzes/week-08)
+  - [Quiz 6](https://github.com/ga-wdi-quizzes/week-08)
 
 ## Project 3
 
@@ -103,7 +103,7 @@ Subject to change.
   - Deploying a MEAN App
   - [Lab: Tunr](https://github.com/ga-wdi-exercises/tunr_rails)
   - [Auth via Twitter](https://github.com/ga-wdi-lessons/express-oauth)
-  - [Quiz-10](https://github.com/ga-wdi-quizzes/week-10)
+  - [Quiz 7](https://github.com/ga-wdi-quizzes/week-10)
 
 ## Multi-Track
 
