@@ -18,7 +18,7 @@ https://github.com/ga-wdi-quizzes/week-04
 
 ## Week 5
 
-https://github.com/ga-wdi-quizzes/ruby-sql-rest
+https://github.com/ga-wdi-quizzes/week-05
 
 ## Week 6
 
