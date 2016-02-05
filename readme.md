@@ -35,6 +35,8 @@ http://garnet.wdidc.org
 
 - [Installfest](https://github.com/ga-dc/installfest)
 
+- [Download the whole curriculum in one fell swoop](https://github.com/ga-dc/curriculum-collector)
+
 ## Slack
 
 - Rooms
