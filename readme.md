@@ -4,6 +4,8 @@
 
 - [Asking for Help](asking-for-help.md)
 
+- [Attendance](attendance.md)
+
 - [Calendar](http://ga-dc.github.io/wdi8/calendar.html)
 
 - [Classroom Rotation](classroom-rotation.md)
