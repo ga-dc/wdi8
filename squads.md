@@ -29,12 +29,12 @@
 
 ## Joe
 
--Jeffrey Eaton
--John Blakeman
--Joseph Quaglio
--Kabir Rai
--Kaira Johnson
--Keith Prifte
+- Jeffrey Eaton
+- John Blakeman
+- Joseph Quaglio
+- Kabir Rai
+- Kaira Johnson
+- Keith Prifte
 
 ## Matt
 
