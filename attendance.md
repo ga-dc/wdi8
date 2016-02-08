@@ -4,7 +4,7 @@
 
 You will take your own attendance through Garnet. (Keep in mind: We've designed it so that we can tell what wifi router you're using -- and therefore whether or not you're actually in our classrooms!) Please check [the incentives for arriving on-time](incentives.md#attendance)!
 
-If today begins at 9:00, then any attendance taken at 9:01 will be considered "tardy". Attendance cannot be taken one hour after the start time. That is: if you try to take attendance over one hour after the day starts, you will be considered tardy. There are **no exceptions,** even if you forgot and the instructors saw you were here.
+If today begins at 9:00, then any attendance taken at 9:01 will be considered "tardy". Attendance cannot be taken three hours after the start time. That is: if you try to take attendance at 12:01, you will be considered "absent". There are **no exceptions,** even if you forgot and the instructors saw you were here.
 
 Of course, Metro delays can happen. The solution is to leave every day earlier than you think you should. The instructors are on-time every day and we live all over the area. **If the instructors can do it, so can you!**
 
