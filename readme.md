@@ -6,7 +6,7 @@
 
 - [Calendar](http://ga-dc.github.io/wdi8/calendar.html)
 
-- [Classroom Rotation](classroom-toation.md)
+- [Classroom Rotation](classroom-rotation.md)
 
 - [Homework Policy](homework-policy.md)
 
