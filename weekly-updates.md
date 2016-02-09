@@ -1,6 +1,6 @@
 # WDI8
 
-## Weekly Updates
+## Weekly Updates - Week 1 (February 8th-12th)
 
 - Schedule 
   Link to Calendar: 
