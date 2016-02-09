@@ -2,7 +2,7 @@
 
 The names below are the squad leaders.
 
-## Unit 1: Intro to the Web
+## Unit 1: Intro to the Web (2/8/16)
 
 - Classroom 4
   - Adrian
@@ -14,7 +14,7 @@ The names below are the squad leaders.
   - Nick
   - Robin
 
-## Unit 2: Vanilla Javascript
+## Unit 2: Vanilla Javascript (2/12/16)
 
 - Classroom 4
   - Adrian
@@ -26,7 +26,7 @@ The names below are the squad leaders.
   - Nick
   - Robin
 
-## Unit 3: Object-Oriented Javascript
+## Unit 3: Object-Oriented Javascript (2/29/16)
 
 - Classroom 4
   - Adrian
@@ -38,7 +38,7 @@ The names below are the squad leaders.
   - Joe
   - Matt
 
-## Unit 4: Raw Ruby
+## Unit 4: Raw Ruby (3/7/16)
 
 - Classroom 4
   - Becky
@@ -50,7 +50,7 @@ The names below are the squad leaders.
   - Matt
   - Robin
 
-## Unit 5: Rails
+## Unit 5: Rails (3/14/16)
 
 - Classroom 4
   - Jesse
@@ -62,7 +62,7 @@ The names below are the squad leaders.
   - Nick
   - Robin
 
-## Unit 6: Angular and APIs
+## Unit 6: Angular and APIs (3/28/16)
 
 - Classroom 4
   - Jesse
@@ -74,7 +74,7 @@ The names below are the squad leaders.
   - Joe
   - Nick
 
-## Unit 7: Express and MEAN
+## Unit 7: Express and MEAN (4/11/16)
 
 - Classroom 4
   - Becky
