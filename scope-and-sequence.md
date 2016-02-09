@@ -12,7 +12,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
     - [HW: Git Haiku](https://github.com/ga-wdi-exercises/haiku)
   - [Git Branching](https://github.com/ga-wdi-lessons/git-branching)
   - [Lab: Portfolio Pages](https://github.com/ga-wdi-exercises/portfolio_pages)
-  - [Mini: HTML Review](https://github.com/ga-wdi-lessons/html-intro)
+  - [Mini: HTML Review](https://github.com/ga-wdi-lessons/html-review)
   - [Quiz 1](https://github.com/ga-wdi-quizzes/week-01)
 
 ## Vanilla Javascript
