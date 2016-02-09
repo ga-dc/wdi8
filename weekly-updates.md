@@ -13,3 +13,7 @@
     - Outcomes Pre-work https://generalassemblydc.typeform.com/to/rOEItv
 - GA events and Community Meet-ups
   - Happy Hours and Campus Lunches have been added to the WDI8 Calendar
+- Standing Crates
+  - A few crates will be left at the back of each classroom for students who are interested in standing during class
+  - They will be available on a first-come, first-serve basis
+  - Please limit use of these crates to the back row of the classroom
