@@ -78,5 +78,21 @@ js1989: ~/wdi/homeworkaroo (johnsmith_solution) $ touch did_my_homework.txt
 js1989: ~/wdi/homeworkaroo (johnsmith_solution *) $ git add did_my_homework.txt
 js1989: ~/wdi/homeworkaroo (johnsmith_solution +) $ git commit -m "Added did_hw file. All done!"
 js1989: ~/wdi/homeworkaroo (johnsmith_solution) $ git push origin johnsmith_solution
-# Click green 'Pull Request' button on Github
+# Click green 'New pull request' button on Github
+# Click green 'Create pull request' button
+# Click the new 'Create pull request' button
 ```
+
+### If `git remote -v` doesn't show anything, or shows the wrong repo
+
+```
+js1989: ~/wdi/homeworkaroo (johnsmith_solution) $ git remote remove origin
+js1989: ~/wdi/homeworkaroo (johnsmith_solution) $ git remote add origin git@github.com:js1989/homeworkaroo.git
+js1989: ~/wdi/homeworkaroo (johnsmith_solution) $ git push origin johnsmith_solution
+# Click green 'New pull request' button on Github... (see above)
+```
+
+### If you have errors...
+
+...please refer to [this readme](https://github.com/ga-wdi-lessons/git-review) for instructions on common Git errors.
+
