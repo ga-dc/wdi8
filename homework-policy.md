@@ -65,7 +65,7 @@ All homework assignments will have their own Github repository, under the `ga-wd
 3. Create a feature branch in the format of `yourname_solution`.
 4. Complete your work inside it.
 5. Then, **push** your completed work to your forked repository.
-6. Finally, make a **pull request** to the upstream repository (in `ga-dc`).
+6. Finally, make a **pull request** to the upstream repository (in `ga-wdi-exercises`).
 
 For example, the sequence of commands you might follow to complete the above process is:
 
@@ -76,7 +76,7 @@ js1989: ~/wdi/homeworkaroo $ cd homeworkaroo
 js1989: ~/wdi/homeworkaroo (master) $ git checkout -b johnsmith_solution
 js1989: ~/wdi/homeworkaroo (johnsmith_solution) $ touch did_my_homework.txt
 js1989: ~/wdi/homeworkaroo (johnsmith_solution *) $ git add did_my_homework.txt
-js1989: ~/wdi/homeworkaroo (johnsmith_solution +) $ git commit -m "Added did_hw file. All done!"
+js1989: ~/wdi/homeworkaroo (johnsmith_solution +) $ git commit -m "Added did_hw file. All done"
 js1989: ~/wdi/homeworkaroo (johnsmith_solution) $ git push origin johnsmith_solution
 # Click green 'New pull request' button on Github
 # Click green 'Create pull request' button
@@ -95,4 +95,3 @@ js1989: ~/wdi/homeworkaroo (johnsmith_solution) $ git push origin johnsmith_solu
 ### If you have errors...
 
 ...please refer to [this readme](https://github.com/ga-wdi-lessons/git-review) for instructions on common Git errors.
-
