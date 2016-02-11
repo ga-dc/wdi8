@@ -92,6 +92,15 @@ js1989: ~/wdi/homeworkaroo (johnsmith_solution) $ git push origin johnsmith_solu
 # Click green 'New pull request' button on Github... (see above)
 ```
 
+### If you named your branch the wrong thing
+
+Simply rename it with `git branch -m`:
+
+```
+js1989: ~/wdi/homeworkaroo (bad-branch-name) $ git branch -m "johnsmith_solution"
+js1989: ~/wdi/homeworkaroo (johnsmith_solution) $
+```
+
 ### If you have errors...
 
 ...please refer to [this readme](https://github.com/ga-wdi-lessons/git-review) for instructions on common Git errors.
