@@ -16,7 +16,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Quiz 1](https://github.com/ga-wdi-quizzes/week-01)
 
 ## Vanilla Javascript
-  - Pseudocoding and Problem-Solving
+  - [Pseudocoding and Problem-Solving](https://github.com/ga-wdi-lessons/pseudocode.git)
   - [Javascript Intro](https://github.com/ga-wdi-lessons/js-intro)
     - [HW: Choose Your Own Adventure](https://github.com/ga-wdi-exercises/choose_your_own_adventure_js)
   - [Objects and Functions](https://github.com/ga-wdi-lessons/js-objects-functions)
