@@ -136,6 +136,7 @@ outer-folder/
 ```
 js1989: ~/wdi $ cd outer-folder
 js1989: ~/wdi/outer-folder (johnsmith_solution) $ mv inner-folder/* .
+# This says, "Move everything (*) from `inner-folder` to the present directory (.)
 js1989: ~/wdi/outer-folder (johnsmith_solution *) $ git add .
 js1989: ~/wdi/outer-folder (johnsmith_solution +) $ git commit -m "Put stuff in the right folder"
 js1989: ~/wdi/outer-folder (johnsmith_solution) $ git push origin johnsmith_solution
