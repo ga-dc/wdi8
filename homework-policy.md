@@ -101,6 +101,46 @@ js1989: ~/wdi/homeworkaroo (bad-branch-name) $ git branch -m "johnsmith_solution
 js1989: ~/wdi/homeworkaroo (johnsmith_solution) $
 ```
 
+### If you have a folder inside a folder
+
+For example, you have something like this attempt at making a Github Pages site:
+
+```
+js1989.github.io/
+  .git/
+  js1989.github.io/
+    index.html
+    style.css
+    script.js
+```
+
+Remember: wherever the `.git` folder is, Git thinks that's the root folder for your repository. 
+
+So, you might go to `http://js1989.github.io/index.html` and get a 404 error. That's because the `index.html` page is actually at `http://js1989.github.io/js1989.github.io/index.html`. However, that URL won't work either because periods are not allowed in URL paths.
+
+Putting it another way, if you named the folders like this:
+
+```
+outer-folder/
+  .git/
+  inner-folder/
+    index.html
+    style.css
+    script.js
+```
+
+...then the URL would be at `http://outer-folder.github.io/innder-folder/index.html`.
+
+**The solution:** Move everything from *inside* `inner-folder` to *outside* `inner-folder`:
+
+```
+js1989: ~/wdi $ cd outer-folder
+js1989: ~/wdi/outer-folder (johnsmith_solution) $ mv inner-folder/* .
+js1989: ~/wdi/outer-folder (johnsmith_solution *) $ git add .
+js1989: ~/wdi/outer-folder (johnsmith_solution +) $ git commit -m "Put stuff in the right folder"
+js1989: ~/wdi/outer-folder (johnsmith_solution) $ git push origin johnsmith_solution
+```
+
 ### If you have errors...
 
 ...please refer to [this readme](https://github.com/ga-wdi-lessons/git-review) for instructions on common Git errors.
