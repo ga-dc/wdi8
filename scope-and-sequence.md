@@ -20,7 +20,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Javascript Intro](https://github.com/ga-wdi-lessons/js-intro)
     - [HW: Choose Your Own Adventure](https://github.com/ga-wdi-exercises/choose_your_own_adventure_js)
   - [Objects and Functions](https://github.com/ga-wdi-lessons/js-objects-functions)
-    - [HW: Big Ol' Twitter Object](https://github.com/ga-wdi-exercises/big_ole_twitter_object)
+    - [HW: Calculator](https://github.com/ga-wdi-exercises/js-calculator)
   - [Debugging](https://github.com/ga-wdi-lessons/js-debugging)
   - [Scope and Context](https://github.com/ga-wdi-lessons/js-scope)
     - [HW: High Card](https://github.com/ga-wdi-exercises/high-card-js)
