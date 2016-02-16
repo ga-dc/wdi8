@@ -61,11 +61,17 @@ On **every submission** -- that is, on every pull request (or, sometimes, issue)
 All homework assignments will have their own Github repository, under the `ga-wdi-exercises` account.
 
 1. Please **fork** new assignments.
+  - ![](https://dl.dropboxusercontent.com/s/7yoqwwkr5zb5zh5/Screenshot%202016-02-16%2013.05.34.png?dl=0)
 2. Then, **clone** your fork to your computer.
+  - `git clone git@github.com:yourusername/reponame.git`
 3. Create a feature branch in the format of `yourname_solution`.
+  - `git checkout -b yourname_solution`
 4. Complete your work inside it.
+  - `git add . && git commit -m "your commit message"`
 5. Then, **push** your completed work to your forked repository.
+  - `git push origin yourname_solution`
 6. Finally, make a **pull request** to the upstream repository (in `ga-wdi-exercises`).
+  - ![](https://dl.dropboxusercontent.com/s/2viga3q9ev8h5m8/Screenshot%202016-02-16%2013.06.51.png?dl=0)
 
 For example, the sequence of commands you might follow to complete the above process is:
 
@@ -114,7 +120,7 @@ js1989.github.io/
     script.js
 ```
 
-Remember: wherever the `.git` folder is, Git thinks that's the root folder for your repository. 
+Remember: wherever the `.git` folder is, Git thinks that's the root folder for your repository.
 
 So, you might go to `http://js1989.github.io/index.html` and get a 404 error. That's because the `index.html` page is actually at `http://js1989.github.io/js1989.github.io/index.html`. However, that URL won't work either because periods are not allowed in URL paths.
 
