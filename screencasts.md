@@ -6,3 +6,4 @@
 * [Robin's Screencasts](https://www.youtube.com/playlist?list=PLae1he6d1WImFXtLgPt7MDAx6k6iP59EW)
 * [Jesse's Screencasts](https://vimeo.com/user34026330/videos)
 * [Andy's Screencasts](https://www.youtube.com/channel/UCP0a-NpnklgVhxWNmeJ2e-w)
+* [Joe's Screencasts](https://www.youtube.com/playlist?list=PLRae5b9MnZ9uE_zhHREU2qLoqPnxJdbf5)
