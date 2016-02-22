@@ -13,4 +13,6 @@
     - Outcomes Student Action Plan: What’s My Brand? Worksheet 
     - Free Personality Test 
     - 3 Networking Opportunities and Organizations
+- Campus Events and Updates 
+  - Happy Hour, Friday February 26th - please remember to check in at the front desk for a wristband. 
 
