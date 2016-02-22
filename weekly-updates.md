@@ -1,18 +1,16 @@
 # WDI8
 
-## Weekly Updates - Week 2 (February 16th-19th)
+## Weekly Updates - Week 3 (February 22nd-26th)
 
 - Schedule 
   Link to Calendar: 
   - http://ga-dc.github.io/wdi8/calendar.html
 - Outcomes Event & Details 
   - Tuesday, February 9th from 10:00AM-12:00 noon (Classroom 5) 
-    - Alumni Panel & Networking
-    We get it, this program is a lot, and can be intimidating. But don’t worry...you’re not alone!  Need proof that you will survive and get through this? Talk to those who have completed and graduated from a GA Immersive! 
+    - Finding Your Voice & Defining Your Brand
+    Your brand is your value proposition. It is important to understand who you are as a professional in your chosen field.      It is what makes you uniquely qualified over candidates who are just merely qualified based solely on hard skills. This      is what makes you different than any other candidates and allows you to stand out from the crowd. These differentiators,     when coupled with your hard skills, translate into employable skills that define you as a professional. 
   - Assignments/Deliverables
-    - Outcomes Pre-work https://generalassemblydc.typeform.com/to/rOEItv
+    - Outcomes Student Action Plan: What’s My Brand? Worksheet 
+    - Free Personality Test 
     - 3 Networking Opportunities and Organizations
-- Standing Crates
-  - A few crates will be left at the back of each classroom for students who are interested in standing during class
-  - They will be available on a first-come, first-serve basis
-  - Please limit use of these crates to the back row of the classroom
+
