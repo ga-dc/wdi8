@@ -24,7 +24,10 @@ If your question is **non-technical** -- you're feeling overwhelmed, or you have
 
 ## During Project Weeks
 
-The instructors will be using Github issues on the project repositories as the primary forum for answering technical questions. 90% of the time, at least one instructor will be dedicated to monitoring issues at all times during business hours. The other 10% will be announced in advance on Slack.
+Instructors will be available in a Genius-Bar style format multiple times throughout the week.
+Please refer to [the calendar](http://ga-dc.github.io/wdi8/calendar.html) to see which instructors will be available for support.
+
+GitHub issues are also useful for answering technical questions. 90% of the time, at least one instructor will be dedicated to monitoring issues at all times during business hours. The other 10% will be announced in advance on Slack.
 
 Issues should follow this format:
 ```
