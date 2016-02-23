@@ -39,7 +39,7 @@ My repo link is ___ and my question is about lines ___.
 
 [Just click this handy link to create an issue with these blanks inserted for you!](https://github.com/ga-dc/project1/issues/new?title=issue+with+____&body=I+tried+_____.+I+expected+_____+to+happen._____+happened+instead.%0DMy+repo+link+is+___+and+my+question+is+about+lines+___.)
 
-*Please close your issues when you've received a satisfactory answer*, and let us know what the solution was! We'll close issues that have gone more than 3 hours without any updates.
+*Please close your issues when you've received a satisfactory answer*, and let us know what the solution was! We'll close issues that have gone more than 30 minutes without any updates.
 
 **Note:** Issues can only be reopened by instructors. Therefore, should your issue get closed, please create a *new* issue, and if it's applicable to your previous issue, just include a link to the previous issue.
 
