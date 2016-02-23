@@ -39,7 +39,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
     - [HW: JS Geometry](https://github.com/ga-wdi-exercises/js_geometry)
   - jQuery Practice
   - Project 1 Refactoring Lab
-  - Problem Modeling and Solving
+  - [Problem Modeling and Solving](https://github.com/ga-wdi-lessons/problem-modeling)
     - [HW: ATM](https://github.com/ga-wdi-exercises/atm)
   - [jQuery Plugins](https://github.com/ga-wdi-lessons/problem-modeling)
   - [Lab: Tic Tac Toe](https://github.com/ga-wdi-exercises/tic_tac_toe)
