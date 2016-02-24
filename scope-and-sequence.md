@@ -31,6 +31,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Quiz 2](https://github.com/ga-wdi-quizzes/week-02)
 
 ## Project 1
+  - [Project 1](https://github.com/ga-wdi-exercises/project1)
 
 ## Object-Oriented Javascript
   - [jQuery Intro](https://github.com/ga-wdi-lessons/js-jquery)
@@ -75,6 +76,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Quiz 5](https://github.com/ga-wdi-quizzes/week-06)
 
 ## Project 2
+  - [Project 2](https://github.com/ga-wdi-exercises/project2)
 
 ## Angular and APIs
   - [AJAX and Consuming APIs](https://github.com/ga-wdi-lessons/api-intro)
@@ -91,6 +93,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Quiz 6](https://github.com/ga-wdi-quizzes/week-08)
 
 ## Project 3
+  - [Project 3](https://github.com/ga-wdi-exercises/project3)
 
 ## Express and MEAN
   - [Express: Build a Simple App](https://github.com/ga-wdi-lessons/express-intro)
@@ -108,3 +111,4 @@ Subject to change. Download this whole thing in one convenient package using [Cu
 ## Multi-Track
 
 ## Project 4
+  - [Project 4](https://github.com/ga-wdi-exercises/project4)
