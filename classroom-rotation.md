@@ -26,7 +26,7 @@ The names below are the squad leaders.
   - Nick
   - Robin
 
-## Unit 3: Object-Oriented Javascript (2/29/16)
+## Unit 3: Object-Oriented Javascript (2/26/16)
 
 - Classroom 4
   - Adrian
