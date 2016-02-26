@@ -38,7 +38,7 @@ The names below are the squad leaders.
   - Joe
   - Matt
 
-## Unit 4: Raw Ruby (3/7/16)
+## Unit 4: Raw Ruby (3/4/16)
 
 - Classroom 4
   - Becky
@@ -50,7 +50,7 @@ The names below are the squad leaders.
   - Matt
   - Robin
 
-## Unit 5: Rails (3/14/16)
+## Unit 5: Rails (3/11/16)
 
 - Classroom 4
   - Jesse
@@ -62,7 +62,7 @@ The names below are the squad leaders.
   - Nick
   - Robin
 
-## Unit 6: Angular and APIs (3/28/16)
+## Unit 6: Angular and APIs (3/25/16)
 
 - Classroom 4
   - Jesse
@@ -74,7 +74,7 @@ The names below are the squad leaders.
   - Joe
   - Nick
 
-## Unit 7: Express and MEAN (4/11/16)
+## Unit 7: Express and MEAN (4/8/16)
 
 - Classroom 4
   - Becky
