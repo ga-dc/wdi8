@@ -1,6 +1,6 @@
 # WDI8
 
-## Weekly Updates - Week 3 (February 22nd-26th)
+## Weekly Updates - Week 4 (February 29th-March 4th)
 
 - Schedule 
   Link to Calendar: 
