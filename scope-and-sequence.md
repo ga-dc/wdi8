@@ -38,7 +38,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
     - [HW: Final Countdown](https://github.com/ga-wdi-exercises/final-countdown)
   - [Prototypes and Constructors](https://github.com/ga-wdi-lessons/js-prototypes-constructors)
     - [HW: JS Geometry](https://github.com/ga-wdi-exercises/js_geometry)
-  - jQuery Practice
+  - [jQuery Practice](https://github.com/ga-wdi-lessons/jquery-practice)
   - Project 1 Refactoring Lab
   - [User Stories and Problem Modeling](https://github.com/ga-wdi-lessons/user-stories-and-problem-modeling)
     - [HW: ATM](https://github.com/ga-wdi-exercises/atm)
