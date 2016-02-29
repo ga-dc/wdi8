@@ -6,9 +6,9 @@
   Link to Calendar: 
   - http://ga-dc.github.io/wdi8/calendar.html
 - Outcomes Event & Details 
-  - Tuesday, February 23rd from 10:00AM-12:00 noon (Classroom 5) 
-    - Finding Your Voice & Defining Your Brand
-    Your brand is your value proposition. It is important to understand who you are as a professional in your chosen field.      It is what makes you uniquely qualified over candidates who are just merely qualified based solely on hard skills. This      is what makes you different than any other candidates and allows you to stand out from the crowd. These differentiators,     when coupled with your hard skills, translate into employable skills that define you as a professional. 
+  - Tuesday, March 1st from 10:00AM-12:00 noon (Classroom 5) 
+    - The Winning Resume Package
+   Learn how to craft a resume that gets callbacks and have the resume Package that wins!  We will tackle LinkedIn and Social Media too! 
   - Assignments/Deliverables
     - Outcomes Student Action Plan: What’s My Brand? Worksheet 
     - Free Personality Test 
