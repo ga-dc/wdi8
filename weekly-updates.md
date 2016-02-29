@@ -10,9 +10,17 @@
     - The Winning Resume Package
    Learn how to craft a resume that gets callbacks and have the resume Package that wins!  We will tackle LinkedIn and Social Media too! 
   - Assignments/Deliverables
-    - Outcomes Student Action Plan: What’s My Brand? Worksheet 
-    - Free Personality Test 
-    - 3 Networking Opportunities and Organizations
-- Campus Events and Updates 
-  - Happy Hour, Friday February 26th - please remember to check in at the front desk for a wristband. 
+    - Outcomes Student Action Plan: Building Your Resume Worksheet 
+    - Continue to work on your brand statement rough draft and enter into the Personal Brand Peer Review Matrix
 
+- Campus Events and Updates 
+  - 3/4 Lunch Menu
+    - Entrée
+      - Spinach and Mushroom Tarts: Spinch and Mushroom tart with roasted tomatoes and yams
+      - Arroz Con Pollo: Traditional yellow rice cooked with chicken, peppers, and onions; topped with peas 
+      - Cuban Ropa Vieja: Fork tender beef braised for hours in a tomato, wine, and garlic sauce
+    - Salad
+      - Havana Salad: Mixed greens, avocado, red onion, tomato, and cucumber served with our house passion fruit-ginger vinaigrette
+    - Side
+      - Mixed Vegetable
+      - Papas Bravas: Fried red potatoes topped with a spicy garlic mayo
