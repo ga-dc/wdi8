@@ -2,7 +2,7 @@
 
 Subject to change. Download this whole thing in one convenient package using [CurriculumCollector](https://github.com/ga-dc/curriculum-collector).
 
-## Intro to the Web
+## Intro to the Webj
   - [Intro to WDI](https://github.com/ga-wdi-lessons/wdi-intro)
   - [CSS Review](https://github.com/ga-wdi-lessons/css-review)
     - [HW: Wendy Bite](https://github.com/ga-wdi-exercises/wendy_bite)
@@ -42,7 +42,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - Project 1 Refactoring Lab
   - [User Stories and Problem Modeling](https://github.com/ga-wdi-lessons/user-stories-and-problem-modeling)
     - [HW: ATM](https://github.com/ga-wdi-exercises/atm)
-  - [jQuery Plugins](https://github.com/ga-wdi-lessons/problem-modeling)
+  - [jQuery Plugins](https://github.com/ga-wdi-lessons/jquery-plugins)
   - [Lab: Tic Tac Toe](https://github.com/ga-wdi-exercises/tic_tac_toe)
   - [Quiz 3](https://github.com/ga-wdi-quizzes/week-04)
 
