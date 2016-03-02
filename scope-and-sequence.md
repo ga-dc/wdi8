@@ -43,6 +43,8 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [User Stories and Problem Modeling](https://github.com/ga-wdi-lessons/user-stories-and-problem-modeling)
     - [HW: ATM](https://github.com/ga-wdi-exercises/atm)
   - [jQuery Plugins](https://github.com/ga-wdi-lessons/jquery-plugins)
+  - [Code Retreat](https://github.com/ga-wdi-exercises/code_retreat)
+  - [Refactoring](https://github.com/ga-wdi-lessons/refactoring)
   - [Lab: Tic Tac Toe](https://github.com/ga-wdi-exercises/tic_tac_toe)
   - [Quiz 3](https://github.com/ga-wdi-quizzes/week-04)
 
