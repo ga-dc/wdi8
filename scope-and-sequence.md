@@ -47,7 +47,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Quiz 3](https://github.com/ga-wdi-quizzes/week-04)
 
 ## Raw Ruby
-  - [Try Ruby](https://github.com/ga-wdi-exercises/try-ruby)
+  - [HW: Try Ruby](https://github.com/ga-wdi-exercises/try-ruby)
   - [Ruby Intro](https://github.com/ga-wdi-lessons/ruby-intro)
   - [Enumerables](https://github.com/ga-wdi-lessons/ruby-enumerables)
     - [HW: High Card](https://github.com/ga-wdi-exercises/high_card)
