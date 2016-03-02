@@ -39,7 +39,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Prototypes and Constructors](https://github.com/ga-wdi-lessons/js-prototypes-constructors)
     - [HW: JS Geometry](https://github.com/ga-wdi-exercises/js_geometry)
   - [jQuery Practice](https://github.com/ga-wdi-lessons/jquery-practice)
-  - Project 1 Refactoring Lab
+  - [Project 1 Refactoring Lab](https://github.com/ga-wdi-lessons/refactoring)
   - [User Stories and Problem Modeling](https://github.com/ga-wdi-lessons/user-stories-and-problem-modeling)
     - [HW: ATM](https://github.com/ga-wdi-exercises/atm)
   - [jQuery Plugins](https://github.com/ga-wdi-lessons/jquery-plugins)
