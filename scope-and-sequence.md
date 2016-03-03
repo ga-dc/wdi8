@@ -55,7 +55,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
     - [HW: High Card](https://github.com/ga-wdi-exercises/high_card)
   - [OOP: Classes](https://github.com/ga-wdi-lessons/ruby-oop)
     - [HW: Scrabbler](https://github.com/ga-wdi-exercises/scrabbler)
-  - OOP: Inheritance
+  - [OOP: Inheritance](https://github.com/ga-wdi-lessons/ruby-oop-inheritance)
   - [TDD and RSpec](https://github.com/ga-wdi-lessons/rspec)
   - [SQL, ERDs, and Domain Modeling](https://github.com/ga-wdi-lessons/sql-erd)
     - [HW: NBA Stats](https://github.com/ga-wdi-exercises/nba_stats)
