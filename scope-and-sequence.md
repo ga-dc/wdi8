@@ -2,7 +2,7 @@
 
 Subject to change. Download this whole thing in one convenient package using [CurriculumCollector](https://github.com/ga-dc/curriculum-collector).
 
-## Intro to the Webj
+## Intro to the Web
   - [Intro to WDI](https://github.com/ga-wdi-lessons/wdi-intro)
   - [CSS Review](https://github.com/ga-wdi-lessons/css-review)
     - [HW: Wendy Bite](https://github.com/ga-wdi-exercises/wendy_bite)
