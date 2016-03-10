@@ -80,6 +80,8 @@ Subject to change. Download this whole thing in one convenient package using [Cu
 
 ## Project 2
   - [Project 2](https://github.com/ga-wdi-exercises/project2)
+  - [Mini: Many-to-Many Relationships](https://github.com/ga-wdi-lessons/rails-many-to-many)
+  - Mini: HTML Forms
 
 ## Angular and APIs
   - [AJAX and Consuming APIs](https://github.com/ga-wdi-lessons/api-intro)
