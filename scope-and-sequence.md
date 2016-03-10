@@ -65,7 +65,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Quiz 4](https://github.com/ga-wdi-quizzes/week-05)
 
 ## Rails
-  - [Intro to MVC, HTTP, REST, and Rails](https://github.com/ga-wdi-lessons/mvc-intro-rails)
+  - [Intro to MVC, HTTP, REST, and Rails](https://github.com/ga-wdi-lessons/http-mvc-intro-rails/tree/master)
     - [HW: Scribble](https://github.com/ga-wdi-exercises/scribble)
   - [Views and Controllers](https://github.com/ga-wdi-lessons/rails-views)
   - [Models and Migrations](https://github.com/ga-wdi-lessons/rails-activerecord)
