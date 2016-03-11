@@ -70,9 +70,9 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Views and Controllers](https://github.com/ga-wdi-lessons/rails-views)
   - [Models and Migrations](https://github.com/ga-wdi-lessons/rails-activerecord)
   - [Routing and Resources](https://github.com/ga-wdi-lessons/rails-routing)
-  - [Writing and Using Helpers](https://github.com/ga-wdi-lessons/rails-helpers)
-  - [Validations, Flash, and Error Handling](https://github.com/ga-wdi-lessons/rails-errors)
-  - Model Methods
+  - [Forms and Helpers](https://github.com/ga-wdi-lessons/forms-and-helpers)
+  - [Sessions, Flash, and Error Handling](https://github.com/ga-wdi-lessons/rails-errors)
+  - Model Methods and Validations
   - [Lab: Hogwarts](https://github.com/ga-wdi-exercises/hogwarts_rails)
   - [Mini: Deployment and the Asset Pipeline](https://github.com/ga-wdi-lessons/rails-deployment)
   - [Mini: How to Retroactively Add Devise](https://github.com/ga-wdi-lessons/rails-auth)
@@ -81,7 +81,6 @@ Subject to change. Download this whole thing in one convenient package using [Cu
 ## Project 2
   - [Project 2](https://github.com/ga-wdi-exercises/project2)
   - [Mini: Many-to-Many Relationships](https://github.com/ga-wdi-lessons/rails-many-to-many)
-  - Mini: HTML Forms
 
 ## Angular and APIs
   - [AJAX and Consuming APIs](https://github.com/ga-wdi-lessons/api-intro)
