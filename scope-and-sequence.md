@@ -74,12 +74,12 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Sessions, Flash, and Error Handling](https://github.com/ga-wdi-lessons/rails-errors)
   - Model Methods and Validations
   - [Lab: Hogwarts](https://github.com/ga-wdi-exercises/hogwarts_rails)
-  - [Mini: Deployment and the Asset Pipeline](https://github.com/ga-wdi-lessons/rails-deployment)
   - [Mini: How to Retroactively Add Devise](https://github.com/ga-wdi-lessons/rails-auth)
   - [Quiz 5](https://github.com/ga-wdi-quizzes/week-06)
 
 ## Project 2
   - [Project 2](https://github.com/ga-wdi-exercises/project2)
+  - [Deployfest](https://github.com/ga-wdi-lessons/rails-deployment)
   - [Mini: Many-to-Many Relationships](https://github.com/ga-wdi-lessons/rails-many-to-many)
 
 ## Angular and APIs
