@@ -71,7 +71,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Models and Migrations](https://github.com/ga-wdi-lessons/rails-activerecord)
   - [Routing and Resources](https://github.com/ga-wdi-lessons/rails-routing)
   - [Forms and Helpers](https://github.com/ga-wdi-lessons/forms-and-helpers)
-  - [Sessions, Flash, and Error Handling](https://github.com/ga-wdi-lessons/rails-errors)
+  - [Sessions, Users, Flash, and Error Handling](https://github.com/ga-wdi-lessons/rails-users-sessions-flash-cookies)
   - Model Methods and Validations
   - [Lab: Hogwarts](https://github.com/ga-wdi-exercises/hogwarts_rails)
   - [Mini: How to Retroactively Add Devise](https://github.com/ga-wdi-lessons/rails-auth)
