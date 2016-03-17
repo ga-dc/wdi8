@@ -72,7 +72,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Routing and Resources](https://github.com/ga-wdi-lessons/rails-routing)
   - [Forms and Helpers](https://github.com/ga-wdi-lessons/forms-and-helpers)
   - [Sessions, Users, Flash, and Error Handling](https://github.com/ga-wdi-lessons/rails-users-sessions-flash-cookies)
-  - Model Methods and Validations
+  - [Model Methods and Validations](https://github.com/ga-wdi-lessons/rails-model-methods-validations)
   - [Lab: Hogwarts](https://github.com/ga-wdi-exercises/hogwarts_rails)
   - [Mini: How to Retroactively Add Devise](https://github.com/ga-wdi-lessons/rails-auth)
   - [Quiz 5](https://github.com/ga-wdi-quizzes/week-06)
