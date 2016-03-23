@@ -75,6 +75,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Model Methods and Validations](https://github.com/ga-wdi-lessons/rails-model-methods-validations)
   - [Lab: Hogwarts](https://github.com/ga-wdi-exercises/hogwarts_rails)
   - [Mini: How to Retroactively Add Devise](https://github.com/ga-wdi-lessons/rails-auth)
+  - [Mini: Sinatra Walkthrough](https://github.com/ga-wdi-lessons/sinatra-walkthrough)
   - [Quiz 5](https://github.com/ga-wdi-quizzes/week-06)
 
 ## Project 2
