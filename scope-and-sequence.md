@@ -87,9 +87,9 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [AJAX and Consuming APIs](https://github.com/ga-wdi-lessons/api-intro-with-ajax)
   - [Single-Page Apps, Angular, Directives, and Controllers](https://github.com/ga-wdi-lessons/angular_spa_intro)
     - [HW: Angular ToDo](https://github.com/ga-wdi-exercises/angular_todo)
+  - [uiRouter](https://github.com/ga-wdi-lessons/angular-routing)
   - [Factories, Services, and ngResource](https://github.com/ga-wdi-lessons/angular-resources)
     - [HW: Grumblr](https://github.com/ga-wdi-exercises/grumblr)
-  - [uiRouter](https://github.com/ga-wdi-lessons/angular-routing)
   - [Custom Directives](https://github.com/ga-wdi-lessons/angular-directives)
   - Rails Back, Angular Front
   - [Git Workflow and Teams](https://github.com/ga-wdi-lessons/git-teams)
