@@ -93,9 +93,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Custom Directives](https://github.com/ga-wdi-lessons/angular-directives)
   - Rails Back, Angular Front
   - [Git Workflow and Teams](https://github.com/ga-wdi-lessons/git-teams)
-  - Lab: WDI Yearbook
-  - [Mini: Authentication](https://github.com/ga-wdi-lessons/angular-auth)
-  - [Mini: Firebase](https://github.com/ga-wdi-lessons/angular-firebase)
+  - [Lab: WDI Radio](https://github.com/ga-wdi-exercises/wdi_radio_lab)
   - [Quiz 6](https://github.com/ga-wdi-quizzes/week-08)
 
 ## Project 3
