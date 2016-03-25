@@ -84,7 +84,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Mini: Many-to-Many Relationships](https://github.com/ga-wdi-lessons/rails-many-to-many)
 
 ## Angular and APIs
-  - [AJAX and Consuming APIs](https://github.com/ga-wdi-lessons/api-intro)
+  - [AJAX and Consuming APIs](https://github.com/ga-wdi-lessons/api-intro-with-ajax)
   - [Single-Page Apps, Angular, Directives, and Controllers](https://github.com/ga-wdi-lessons/angular_spa_intro)
     - [HW: Angular ToDo](https://github.com/ga-wdi-exercises/angular_todo)
   - [Factories, Services, and ngResource](https://github.com/ga-wdi-lessons/angular-resources)
