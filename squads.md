@@ -25,14 +25,12 @@
 - Farishta Haider
 - Hilary Masland
 - Isaac Hayes
-- Jah-Jah Jackson
+- Fatai Agiri
 
 ## Joe
 
 - Jeffrey Eaton
 - John Blakeman
-- Joseph Quaglio
-- Kabir Rai
 - Kaira Johnson
 - Keith Prifte
 
