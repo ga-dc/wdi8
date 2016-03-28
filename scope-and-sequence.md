@@ -91,7 +91,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Factories, Services, and ngResource](https://github.com/ga-wdi-lessons/angular-resources)
     - [HW: Grumblr](https://github.com/ga-wdi-exercises/grumblr)
   - [Custom Directives](https://github.com/ga-wdi-lessons/angular-directives)
-  - Rails Back, Angular Front
+  - [Rails Back, Angular Front](https://github.com/ga-wdi-lessons/angular-on-rails)
   - [Git Workflow and Teams](https://github.com/ga-wdi-lessons/git-teams)
   - [Lab: WDI Radio](https://github.com/ga-wdi-exercises/wdi_radio_lab)
   - [Quiz 6](https://github.com/ga-wdi-quizzes/week-08)
