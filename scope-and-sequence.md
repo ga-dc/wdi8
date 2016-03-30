@@ -89,7 +89,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
     - [HW: Angular ToDo](https://github.com/ga-wdi-exercises/angular_todo)
   - [uiRouter](https://github.com/ga-wdi-lessons/angular-routing)
   - [Factories, Services, and ngResource](https://github.com/ga-wdi-lessons/angular-resources)
-    - [HW: Grumblr](https://github.com/ga-wdi-exercises/grumblr)
+    - [HW: Grumblr](https://github.com/ga-wdi-exercises/grumblr_angular)
   - [Custom Directives](https://github.com/ga-wdi-lessons/angular-directives)
   - [Rails Back, Angular Front](https://github.com/ga-wdi-lessons/angular-on-rails)
   - [Git Workflow and Teams](https://github.com/ga-wdi-lessons/git-teams)
