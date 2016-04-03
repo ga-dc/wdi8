@@ -95,10 +95,10 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Git Workflow and Teams](https://github.com/ga-wdi-lessons/git-teams)
   - [Mini: Angular Walkthrough](https://github.com/ga-wdi-exercises/shangriangula)
   - [Lab: WDI Radio](https://github.com/ga-wdi-exercises/wdi_radio_lab)
-  - [Quiz 6](https://github.com/ga-wdi-quizzes/week-08)
 
 ## Project 3
   - [Project 3](https://github.com/ga-wdi-exercises/project3)
+  - [Quiz 6](https://github.com/ga-wdi-quizzes/week-08)
 
 ## Express and MEAN
   - [Express: Build a Simple App](https://github.com/ga-wdi-lessons/express-intro)
