@@ -101,7 +101,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Quiz 6](https://github.com/ga-wdi-quizzes/week-08)
 
 ## Express and MEAN
-  - [Express: Build a Simple App](https://github.com/ga-wdi-lessons/express-intro)
+  - [Express: Build a Simple App](https://github.com/ga-wdi-lessons/mean-intro)
     - [HW: Emergency Compliment](https://github.com/ga-wdi-exercises/compliment-express)
   - [MongoDB, NoSQL, Mongoose, Schema, and Seeds](https://github.com/ga-wdi-lessons/mongo-intro)
   - Mongoose CRUD
