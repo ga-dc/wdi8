@@ -109,7 +109,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
     - [HW: Yum](https://github.com/ga-wdi-exercises/yum)
   - Express, MVC, and How It All Fits Together
   - Building a MEAN App
-  - Deploying a MEAN App
+  - [Deploying a MEAN App](https://github.com/ga-wdi-lessons/deploy-MEAN-app)
   - [Lab: Tunr](https://github.com/ga-wdi-exercises/tunr_rails)
   - [Auth via Twitter](https://github.com/ga-wdi-lessons/express-oauth)
   - [Quiz 7](https://github.com/ga-wdi-quizzes/week-10)
