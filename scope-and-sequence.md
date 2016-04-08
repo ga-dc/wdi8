@@ -106,7 +106,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
     - [HW: Emergency Compliment](https://github.com/ga-wdi-exercises/compliment-express)
   - [MongoDB, NoSQL, Mongoose, Schema, and Seeds](https://github.com/ga-wdi-lessons/mongo-intro)
   - Mongoose CRUD
-    - [HW: Mongo Reminders](https://github.com/ga-wdi-exercises/reminders_mongo)
+    - [HW: Yum](https://github.com/ga-wdi-exercises/yum)
   - Express, MVC, and How It All Fits Together
   - Building a MEAN App
   - Deploying a MEAN App
