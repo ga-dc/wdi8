@@ -10,7 +10,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
     - [HW: To Oz! (via the Command Line)](https://github.com/ga-wdi-exercises/to_oz)
   - [Git and Github Intro](https://github.com/ga-wdi-lessons/git-intro)
     - [HW: Git Haiku](https://github.com/ga-wdi-exercises/haiku)
-  - [Git Branching](https://github.com/ga-wdi-lessons/git-branching)
+  - [Git Branching](https://github.com/ga-wdi-lessons/git-branching)o
   - [Lab: Portfolio Pages](https://github.com/ga-wdi-exercises/portfolio_pages)
   - [Mini: HTML Review](https://github.com/ga-wdi-lessons/html-review)
   - [Quiz 1](https://github.com/ga-wdi-quizzes/week-01)
@@ -111,7 +111,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - Building a MEAN App
   - [Deploying a MEAN App](https://github.com/ga-wdi-lessons/deploy-MEAN-app)
   - [Lab: Tunr](https://github.com/ga-wdi-exercises/tunr_rails)
-  - [Auth via Twitter](https://github.com/ga-wdi-lessons/express-oauth)
+  - [Auth via Twitter](https://github.com/ga-wdi-lessons/express-oauth-handrolled)
   - [Quiz 7](https://github.com/ga-wdi-quizzes/week-10)
 
 ## Multi-Track
