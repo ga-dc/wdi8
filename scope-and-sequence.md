@@ -105,7 +105,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
     - [HW: Install appropriate software](https://github.com/ga-wdi-lessons/mean-intro/blob/master/setup.md)
     - [HW: Emergency Compliment](https://github.com/ga-wdi-exercises/compliment-express)
   - [MongoDB, NoSQL, Mongoose, Schema, and Seeds](https://github.com/ga-wdi-lessons/mongo-intro)
-  - Mongoose CRUD
+  - [Mongoose CRUD](https://github.com/ga-wdi-lessons/mongoose-intro)
     - [HW: Yum](https://github.com/ga-wdi-exercises/yum)
   - Express, MVC, and How It All Fits Together
   - Building a MEAN App
