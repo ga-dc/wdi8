@@ -107,7 +107,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [MongoDB, NoSQL, Mongoose, Schema, and Seeds](https://github.com/ga-wdi-lessons/mongo-intro)
   - [Mongoose CRUD](https://github.com/ga-wdi-lessons/mongoose-intro)
     - [HW: Yum](https://github.com/ga-wdi-exercises/yum)
-  - Express, MVC, and How It All Fits Together
+  - [Express + Mongoose](https://github.com/ga-wdi-lessons/express-mongoose)
   - Building a MEAN App
   - [Deploying a MEAN App](https://github.com/ga-wdi-lessons/deploy-MEAN-app)
   - [Lab: Tunr](https://github.com/ga-wdi-exercises/tunr_rails)
