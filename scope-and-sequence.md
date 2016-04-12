@@ -109,7 +109,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
     - [HW: Yum](https://github.com/ga-wdi-exercises/yum)
   - [Express + Mongoose](https://github.com/ga-wdi-lessons/express-mongoose)
     - [HW: CRUD with Mongoose](https://github.com/ga-wdi-exercises/whenpresident/wiki/Homework#after-the-express-mongoose-lesson)
-  - Building a MEAN App
+  - [Building a MEAN App](https://github.com/ga-wdi-lessons/building-a-mean-app/blob/master/readme.md)
     - [HW: CRUD with Angular](https://github.com/ga-wdi-exercises/whenpresident/wiki/Homework#after-the-building-a-mean-app-lesson)
   - [Deploying a MEAN App](https://github.com/ga-wdi-lessons/deploy-MEAN-app)
   - [Lab: Tunr](https://github.com/ga-wdi-exercises/tunr_rails)
