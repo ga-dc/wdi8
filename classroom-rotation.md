@@ -85,3 +85,16 @@ The names below are the squad leaders.
   - Jesse
   - Joe
   - Nick
+
+## Unit 8: Buzzword-A-Palooza (4/15/16)
+
+- Classroom 4
+  - Adrian
+  - Joe
+  - Nick
+- Classroom 6
+  - Becky
+  - Robin
+  - Matt
+  - Jesse
+  
