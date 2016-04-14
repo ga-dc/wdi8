@@ -1,7 +1,7 @@
 # DIR Interview Process
 
 We want you! We're looking for Developers in Residence for the next upcoming WDI cohorts. This is a chance for you to gain some valuable experience as part of the WDI instructional team.
-#### *Please note: Training for this position would begin on June 20th
+#### *Please note: Training for this position would begin on June 20th*
 
 ## What does being a DIR mean?
   Being a DIR is an opportunity for you to be an integral part of the WDI instructional team. You will be working full time along side the instructors for an entire cohort. Responsibilities include teaching, planning, mentoring, and collaborating with other teams at General Assembly.
