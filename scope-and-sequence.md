@@ -112,7 +112,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Building a MEAN App](https://github.com/ga-wdi-lessons/building-a-mean-app/blob/master/readme.md)
     - [HW: CRUD with Angular](https://github.com/ga-wdi-exercises/whenpresident/wiki/Homework#after-the-building-a-mean-app-lesson)
   - [Deploying a MEAN App](https://github.com/ga-wdi-lessons/deploy-MEAN-app)
-  - [Lab: Tunr](https://github.com/ga-wdi-exercises/tunr_rails)
+  - [Lab: MEAN Lab](https://github.com/ga-wdi-exercises/mean-lab)
   - [Auth via Twitter](https://github.com/ga-wdi-lessons/express-oauth-handrolled)
   - [Quiz 7](https://github.com/ga-wdi-quizzes/week-10)
 
