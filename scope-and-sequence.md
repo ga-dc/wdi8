@@ -117,10 +117,10 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [Quiz 7](https://github.com/ga-wdi-quizzes/week-10)
 
 ## Everything Else
-  - [PHP and Wordpress](https://github.com/ga-wdi-lessons/php-wordpress)
+  - [PHP Intro](https://github.com/ga-wdi-lessons/php-intro)
   - [SASS](https://github.com/ga-wdi-lessons/sass-intro)
   - Build Tools
-  - DevOps
+  - [Wordpress Intro](https://github.com/ga-wdi-lessons/wordpress-intro)
   - Lab
   - React, Part 1
   - React, Part 2
