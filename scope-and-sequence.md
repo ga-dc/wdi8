@@ -119,7 +119,7 @@ Subject to change. Download this whole thing in one convenient package using [Cu
 ## Everything Else
   - [PHP Intro](https://github.com/ga-wdi-lessons/php-intro)
   - [SASS](https://github.com/ga-wdi-lessons/sass-intro)
-  - Build Tools
+  - [Build Tools](https://github.com/ga-wdi-lessons/build-tools)
   - [Wordpress Intro](https://github.com/ga-wdi-lessons/wordpress-intro)
   - Lab
   - React, Part 1
