@@ -121,9 +121,9 @@ Subject to change. Download this whole thing in one convenient package using [Cu
   - [SASS](https://github.com/ga-wdi-lessons/sass-intro)
   - [Build Tools](https://github.com/ga-wdi-lessons/build-tools)
   - [Wordpress Intro](https://github.com/ga-wdi-lessons/wordpress-intro)
-  - Lab
-  - React, Part 1
-  - React, Part 2
+  - [Lab: Portfolio](https://github.com/ga-wdi-exercises/end-of-course-portfolio)
+  - [React, Part 1](https://github.com/ga-wdi-lessons/react-intro)
+  - [React, Part 2](https://github.com/ga-wdi-lessons/react-continued)
 
 ## Project 4
   - [Project 4](https://github.com/ga-wdi-exercises/project4)
